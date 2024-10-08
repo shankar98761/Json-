@@ -1,0 +1,28 @@
+{
+    "packageName": {
+        "credits": "Real Apk",
+        "showDialog": true,
+        "title": "Mod by @Real_Apk",
+        "message": "https://raw.githubusercontent.com/shankar98761/Html/refs/heads/main/File?token=GHSAT0AAAAAACYGEEQU6KESAEVDNEAFV3O2ZYE3NOQ",
+        "showNegativeButton": true,
+        "NegativeButtonText": "TELEGRAM",
+        "NegativeButtonUrl": "Hai",
+        "showPositiveButton": true,
+        "positiveButtonText": "CANCEL",
+        "maxShowCount": 3,
+        "controlByShowCount": false,
+ 
+        "updateConfig": {
+            "updateMonitor": false,
+            "requiredVersion": "9999",
+            "requiredVersionCode": 126,
+            "title": "Mod by @Real_Apk",
+            "message": "https://raw.githubusercontent.com/Paste your HTML path",
+            "showNegativeButton": true,
+            "NegativeButtonText": "test update",
+            "NegativeButtonUrl": "https://t.me/TheHiddenFools",
+            "showPositiveButton": true,
+            "positiveButtonText": "CANCEL"
+        }
+    }
+}
